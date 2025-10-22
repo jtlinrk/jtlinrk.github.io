@@ -14,26 +14,22 @@ $\pi_k(\mathrm{Sym}^\infty \mathcal M^\mathrm{trop}_g)$.-->
 
 ## Research Interests
 
-- **Tropical geometry:** curves and Jacobians, Weierstrass points
-- **Number theory:** uniform bounds on rational points, Riemann hypothesis
-- **Biology:** evolution of bats
+- **Algebraic geometry:** 
 
-## News
+## Education
+- **[Sept. 2025]** Graduated from National Taiwan University in Taipei, Taiwan, with a Bachelor of Science in Mathematics.
+- **[June. 2023]** Graduated from National Tsing Hua University in Hsinchu, Taiwan, with a Bachelor of Science in Mathematics.
 
-- **[Feb. 2020]** Seminar talk at NTU graduate student event
-- **[Feb. 2020]** Colloquium talk at Chung Hsing University 中興大學
-- **[Sept. 2019]** Started Ph.D. program at NTU
-- **[Mar. 2019]** Graduated from Univeristy of Washington with bachelors degree.
-
-## Publications
-
-{% include_relative _includes/publications.html %}
+<!--## Master Thesis
+On the Smooth Filling-in Problem
+Adivisor: Hseuh-Yung, Lin
+{% include_relative _includes/publications.html %}-->
 
 ## Notes and Presentations
 
 {% include_relative _includes/notes.html %}
 
-## Teaching
+<!--## Teaching
 
 I have experience teaching the fundamental theorem of calculus
 \\[ \int_a^b f'(x) \, dx = f(b) - f(a) .\\]
@@ -76,4 +72,4 @@ end
 
 - Markdown for a math quote:
 > God is always doing geometry  
-> -- Plato
+> -- Plato-->
